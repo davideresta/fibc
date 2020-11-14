@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="dresta.fca.tests.AppTest" time="0.019" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="dresta.fca.tests.AppTest" time="0.013" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="11.0.1+13-LTS"/>
@@ -27,7 +27,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
-    <property name="classworlds.conf" value="C:\Users\david\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf7160849451139221487.tmp"/>
+    <property name="classworlds.conf" value="C:\Users\david\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf16429100013154849768.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jdk-11.0.1/bin/server;C:/Program Files/Java/jdk-11.0.1/bin;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Users\david\apache-maven-3.6.0\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-11.0.1\bin;C:\Program Files\Git\cmd;C:\Users\david\AppData\Local\Microsoft\WindowsApps;C:\texlive\2018\bin\win32;;C:\WINDOWS\System32;;."/>
     <property name="jdk.debug" value="release"/>
@@ -62,5 +62,5 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="dresta.fca.tests.AppTest" name="testApp" time="0.019"/>
+  <testcase classname="dresta.fca.tests.AppTest" name="testApp" time="0.013"/>
 </testsuite>
